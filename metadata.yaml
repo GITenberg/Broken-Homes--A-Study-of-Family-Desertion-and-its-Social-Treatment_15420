@@ -1,0 +1,28 @@
+_repo: Broken-Homes--A-Study-of-Family-Desertion-and-its-Social-Treatment_15420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colcord, Joanna C. (Joanna Carver)
+    alias: Colcord, Joanna Carver
+    birthdate: 1882
+    deathdate: 1960
+    gutenberg_agent_id: '6044'
+    url: http://www.gutenberg.org/2009/agents/6044
+description: ''
+gutenberg_issued: '2005-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15420'
+  lccn: '19010089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Desertion and non-support'
+- !lcc 'HQ'
+title: 'Broken Homes: A Study of Family Desertion and its Social Treatment'
+url: http://www.gutenberg.org/ebooks/15420
