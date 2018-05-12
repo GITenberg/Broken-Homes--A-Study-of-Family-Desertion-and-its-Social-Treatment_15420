@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6044'
     url: http://www.gutenberg.org/2009/agents/6044
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15420#Broken-Homes--A-Study-of-Family-Desertion-and-its-Social-Treatment
 gutenberg_issued: '2005-03-20'
 gutenberg_type: Text
 identifiers:
